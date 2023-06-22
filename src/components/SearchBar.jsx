@@ -26,8 +26,8 @@ function SearchBar(props) {
         >
           <option value="All">All Videos</option>
           <option value="Real Estate Investing">Real Estate Investing</option>
-          <option value="Podcasts">Podcasts</option>
-          <option value="Sports">Sports</option>
+          <option value="People Are Awesome 2023">People Are Awesome</option>
+          <option value="Sports Highlights">Sports</option>
         </select>
         &nbsp;
         <input onClick={submitCategory} type="submit" />
