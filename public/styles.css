@@ -1,0 +1,20 @@
+body{
+    
+    background-color: #253d66;
+background-image: url("https://www.transparenttextures.com/patterns/batthern.png");
+}
+.title {
+    text-align: center;
+    margin: 50px 0px 100px;
+    color: white
+}
+
+.row{
+    margin-bottom: 100px
+}
+
+.catSelector{
+    margin-bottom: 50px;
+    font-size: 1.5em;
+    color: white;
+}
